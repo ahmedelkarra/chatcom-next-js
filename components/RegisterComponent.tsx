@@ -43,7 +43,7 @@ function RegisterComponent() {
         }
     }
     return (
-        <div className='flex flex-col justify-around items-center border h-[70dvh] md:h-[70dvh] w-[90%] md:w-[70%] mx-auto absolute top-[40%] left-[50%] translate-x-[-50%] translate-y-[-40%] rounded-md shadow-md'>
+        <div className='flex flex-col justify-around items-center border my-4 gap-2 md:h-[60dvh] w-[90%] md:w-[70%] mx-auto rounded-md shadow-md'>
             <div className='flex flex-col justify-center items-center w-[90%]'>
                 <div className='bg-blue-400 w-14 h-14 p-3 rounded-full my-3' >
                     <svg fill="#ffffff" height="100%" width="100%" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330.00 330.00" stroke="#ffffff" strokeWidth="0.0033"><g id="SVGRepo_bgCarrier" strokeWidth="0"></g><g id="SVGRepo_tracerCarrier" strokeLinecap="round" strokeLinejoin="round"></g><g id="SVGRepo_iconCarrier"> <g id="XMLID_509_">
